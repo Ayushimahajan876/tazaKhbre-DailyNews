@@ -1,0 +1,17 @@
+#btn {
+    /* list-style: none; */
+    text-decoration: none;
+    padding: 11px;
+    border-radius: 17px;
+    cursor: pointer;
+    border: 0;
+    color:white;
+    background-color: rgb(162, 140, 241);
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    /* letter-spacing: 1.5px; */
+
+    /* text-transform: uppercase; */
+    font-size: 13px;
+    transition: all 0.5s ease;
+  }
+  
