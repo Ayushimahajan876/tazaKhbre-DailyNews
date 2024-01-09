@@ -1,3 +1,48 @@
+Technology Used:
+HTML
+CSS
+REACTJS
+NEWS API
+Auth0
+
+Features:
+Different categories of latest news
+Login
+Logout
+Dark Mode/light Mode
+Search
+Infinite Scroll Bar
+Top loading bar
+
+Home Page
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/e399bd59-b0e6-4620-a762-b79c29d9be79)
+
+Business Related News
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/3ad047ab-f41a-43b9-b721-4af1689323f1)
+
+Entertainment News
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/66793575-dd50-42ab-8e31-a10a6cb7fa9f)
+
+Dark Mode enable by clicking on the moon icon
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/7d0929dc-7a9b-4e32-bdf7-e46e88251cdc)
+
+User Can login using email and password or by using google and microsoft account and after login name will be displayed at top 
+and user can logout after clicking on logout button
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/e497de29-f549-4d60-aafa-34838e043f1a)
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/042f1c87-59f1-49e2-b628-9765c4bdb25d)
+
+User can search any news in search bar
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/bfa8136b-8cd8-46d2-8e5f-fd6bce4c7e99)
+
+Science News
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/f96baf3b-18a0-4dad-ac4d-ac0787b41c35)
+
+Full responsive design with dropdown nav
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/5d1ea5b3-4bad-48b5-8a39-5545580418aa)
+
+![image](https://github.com/Ayushimahajan876/tazaKhbre-DailyNews/assets/136071554/bc0c5a39-5911-451d-80d5-fb3f26642652)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
