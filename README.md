@@ -1,4 +1,4 @@
-Technology Used:<br><strong>
+<strong>Technologies Used:<br><strong>
 HTML<br>
 CSS<br>
 REACTJS<br>
